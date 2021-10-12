@@ -21,7 +21,7 @@ class CalendarsController < ApplicationController
   def get_week
     wdays = ['(日)','(月)','(火)','(水)','(木)','(金)','(土)']
     # 3 + 6 = 9
-    # 9 - 7
+   
     #wdays[0]
 
 
